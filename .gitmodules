@@ -1,0 +1,12 @@
+[submodule "GatewayAlu"]
+	path = GatewayAlu
+	url = https://github.com/juniiorPvh/GatewayAlu
+[submodule "DiscoveryAlu"]
+	path = DiscoveryAlu
+	url = https://github.com/juniiorPvh/DiscoveryAlu
+[submodule "PagamentosAlu"]
+	path = PagamentosAlu
+	url = https://github.com/juniiorPvh/PagamentosAlu
+[submodule "PedidosAlu"]
+	path = PedidosAlu
+	url = https://github.com/juniiorPvh/PedidosAlu
